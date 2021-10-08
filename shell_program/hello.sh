@@ -1,1 +1,5 @@
-echo "hello world 1"
+whoami
+ls
+cal
+cat
+uname -a
