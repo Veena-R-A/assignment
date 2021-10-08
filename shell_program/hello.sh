@@ -1,5 +1,6 @@
 whoami
 ls
 cal
-cat
+echo "welcome"
 uname -a
+
